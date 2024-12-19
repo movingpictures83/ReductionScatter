@@ -1,0 +1,2 @@
+Prefix plugins/ReductionScatter/example/
+Plugin ReductionScatter inputfile parameters.reductionscatter.txt outputfile reductionscatter.pdf
